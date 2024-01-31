@@ -1,15 +1,15 @@
 title: Networks in Science of Science
-description: "A NetSci 2024 Satellite Workshop"
+description: "A NetSci 2023 Satellite Workshop"
 
 timezone: Europe/Vienna
 
 navigation:
-  Home: "/"
-  Call for Papers: "/cfp"
-  Accepted Papers: "/papers"
-  Speakers: "/speakers"
-  Schedule: "/schedule"
-  Organizers: "/organizers"
+  Home: "/2023/"
+  Call for Papers: "/2023/cfp"
+  Accepted Papers: "/2023/papers"
+  Speakers: "/2023/speakers"
+  Schedule: "/2023/schedule"
+  Organizers: "/2023/organizers"
 
 markdown: kramdown
 
