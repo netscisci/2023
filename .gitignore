@@ -1,0 +1,12 @@
+.DS_Store
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+bin/
+cache/
+extensions/
+gems/
+specifications/
+
+_site/
+.sass-cache/
+
