@@ -10,6 +10,7 @@ navigation:
   Speakers: "/speakers"
   Schedule: "/schedule"
   Organizers: "/organizers"
+  Back: "https://netscisci.github.io/"
 
 markdown: kramdown
 
